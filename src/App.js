@@ -34,7 +34,7 @@ function App() {
       <div>
       <TimeAndLocation weather={weather} />
       <TemperatureAndDetails weather={weather}/>
-
+        <p> testing git</p>
       <Forecast title="hourly forecast" />
       <Forecast title="daily forecast" />
       </div>
