@@ -37,7 +37,6 @@ function App() {
 
       <Forecast title="hourly forecast" />
       <Forecast title="daily forecast" />
-      vfffdfddd
       </div>
 
        
